@@ -43,8 +43,11 @@ Three categories, inventoried in `fonts.json` and ready to use via
 | Category | Family | Use for | License |
 |----------|--------|---------|---------|
 | **Display** | ZT Bros Oskon 90s (Extra Light / Light / Regular + italics) | Headlines, poster titles, big expressive type | User-provided — verify license before publishing |
+| **Display** | JaneAusten (handwriting script) | Script accents, quotes, signature-style headlines | Free for personal use only (Pia Frauss) — not for commercial use without permission |
+| **Display** | Palmore (retro rounded script) | Playful bold headlines, stickers, badges | User-provided — verify license before publishing |
 | **Readable** | Inter (variable, wght 100–900 + italic) | Body text, paragraphs, UI copy — maximum legibility at small sizes | SIL OFL 1.1 |
 | **Mono** | Space Mono (Regular / Bold + italics) | Hex codes, swatch labels, captions, code snippets | SIL OFL 1.1 |
 
 Suggested pairing: **ZT Bros Oskon 90s** for headlines, **Inter** for body,
-**Space Mono** for hex codes and labels.
+**Space Mono** for hex codes and labels. **JaneAusten** / **Palmore** work as
+script accents — e.g. a handwritten quote over a poster-style hero.

@@ -38,6 +38,32 @@
               "weight": 400
             }
           ]
+        },
+        {
+          "name": "JaneAusten",
+          "css_family": "\"JaneAusten\", cursive",
+          "license": "Free for personal use only (Pia Frauss, 2005) \u2014 not for commercial use without permission. Readme kept alongside the font per its distribution terms.",
+          "note": "Handwriting script based on Jane Austen's handwriting. Includes special alternates on punctuation/symbol slots (see JaneAusten.txt).",
+          "styles": [
+            {
+              "file": "fonts/display/JaneAusten/JaneAust.ttf",
+              "weight": 400,
+              "style": "normal"
+            }
+          ]
+        },
+        {
+          "name": "Palmore",
+          "css_family": "Palmore, cursive",
+          "license": "User-provided \u2014 verify license before publishing",
+          "note": "Bold playful retro rounded script for expressive headlines.",
+          "styles": [
+            {
+              "file": "fonts/display/Palmore/Palmore.ttf",
+              "weight": 400,
+              "style": "normal"
+            }
+          ]
         }
       ],
       "label": "Display",

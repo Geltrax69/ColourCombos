@@ -47,6 +47,24 @@
   font-display: swap;
 }
 
+/* ---------------- Display: JaneAusten (handwriting script, personal-use only) ---------------- */
+@font-face {
+  font-family: "JaneAusten";
+  src: url("display/JaneAusten/JaneAust.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ---------------- Display: Palmore (retro rounded script, user-provided) ---------------- */
+@font-face {
+  font-family: "Palmore";
+  src: url("display/Palmore/Palmore.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ---------------- Readable: Inter (variable, OFL) ---------------- */
 @font-face {
   font-family: "Inter";
