@@ -126,6 +126,30 @@
               900
             ]
           }
+        },
+        {
+          "name": "Source Serif 4",
+          "css_family": "\"Source Serif 4\", Georgia, serif",
+          "license": "SIL Open Font License 1.1",
+          "note": "Readable text serif \u2014 ideal for long-form articles.",
+          "variable": {
+            "weight": [
+              200,
+              900
+            ]
+          },
+          "styles": [
+            {
+              "file": "fonts/readable/SourceSerif4/SourceSerif4-opsz-wght.ttf",
+              "weight": "200 900",
+              "style": "normal"
+            },
+            {
+              "file": "fonts/readable/SourceSerif4/SourceSerif4-Italic-opsz-wght.ttf",
+              "weight": "200 900",
+              "style": "italic"
+            }
+          ]
         }
       ],
       "label": "Readable",
