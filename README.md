@@ -34,3 +34,17 @@ later (fetch, or `import combos from './combos.json'` with a bundler).
 | 1 | Autumn Maroon | 2350 U | `#973d39` | Poster background |
 | 2 | Oat Beige | P 24-9 U | `#f2dfc3` | "Autumn Vibes" title, light oak leaves |
 | 3 | Harvest Orange | P 14-6 U | `#ec963e` | Orange oak leaves |
+
+## Fonts
+
+Three categories, inventoried in `fonts.json` and ready to use via
+`fonts/fonts.css` (`<link rel="stylesheet" href="fonts/fonts.css">`):
+
+| Category | Family | Use for | License |
+|----------|--------|---------|---------|
+| **Display** | ZT Bros Oskon 90s (Extra Light / Light / Regular + italics) | Headlines, poster titles, big expressive type | User-provided — verify license before publishing |
+| **Readable** | Inter (variable, wght 100–900 + italic) | Body text, paragraphs, UI copy — maximum legibility at small sizes | SIL OFL 1.1 |
+| **Mono** | Space Mono (Regular / Bold + italics) | Hex codes, swatch labels, captions, code snippets | SIL OFL 1.1 |
+
+Suggested pairing: **ZT Bros Oskon 90s** for headlines, **Inter** for body,
+**Space Mono** for hex codes and labels.

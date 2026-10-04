@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "display": {
+      "families": [
+        {
+          "css_family": "\"ZT Bros Oskon 90s\", Georgia, serif",
+          "license": "User-provided \u2014 verify license before publishing",
+          "name": "ZT Bros Oskon 90s",
+          "styles": [
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-ExtraLight.otf",
+              "style": "normal",
+              "weight": 200
+            },
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-ExtLtIta.otf",
+              "style": "italic",
+              "weight": 200
+            },
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-Light.otf",
+              "style": "normal",
+              "weight": 300
+            },
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-LightItalic.otf",
+              "style": "italic",
+              "weight": 300
+            },
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-Regular.otf",
+              "style": "normal",
+              "weight": 400
+            },
+            {
+              "file": "fonts/display/ZTBrosOskon90s/ZTBrosOskon90s-Italic.otf",
+              "style": "italic",
+              "weight": 400
+            }
+          ]
+        }
+      ],
+      "label": "Display",
+      "usage": "Headlines, poster titles, big expressive type. Pairs with the poster artwork."
+    },
+    "mono": {
+      "families": [
+        {
+          "css_family": "\"Space Mono\", ui-monospace, monospace",
+          "license": "SIL Open Font License 1.1",
+          "name": "Space Mono",
+          "styles": [
+            {
+              "file": "fonts/mono/SpaceMono/SpaceMono-Regular.ttf",
+              "style": "normal",
+              "weight": 400
+            },
+            {
+              "file": "fonts/mono/SpaceMono/SpaceMono-Italic.ttf",
+              "style": "italic",
+              "weight": 400
+            },
+            {
+              "file": "fonts/mono/SpaceMono/SpaceMono-Bold.ttf",
+              "style": "normal",
+              "weight": 700
+            },
+            {
+              "file": "fonts/mono/SpaceMono/SpaceMono-BoldItalic.ttf",
+              "style": "italic",
+              "weight": 700
+            }
+          ]
+        }
+      ],
+      "label": "Mono",
+      "usage": "Hex codes, swatch labels, captions, code snippets. Retro typewriter feel that matches the 90s poster vibe."
+    },
+    "readable": {
+      "families": [
+        {
+          "css_family": "Inter, system-ui, sans-serif",
+          "license": "SIL Open Font License 1.1",
+          "name": "Inter",
+          "styles": [
+            {
+              "file": "fonts/readable/Inter/Inter-opsz-wght.ttf",
+              "style": "normal",
+              "weight": "100 900"
+            },
+            {
+              "file": "fonts/readable/Inter/Inter-Italic-opsz-wght.ttf",
+              "style": "italic",
+              "weight": "100 900"
+            }
+          ],
+          "variable": {
+            "weight": [
+              100,
+              900
+            ]
+          }
+        }
+      ],
+      "label": "Readable",
+      "usage": "Body text, paragraphs, UI copy \u2014 maximum legibility at small sizes. Neutral grotesque that lets the display serif shine."
+    }
+  }
+}

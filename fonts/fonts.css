@@ -1,0 +1,94 @@
+/* ColourCombos — self-hosted font faces.
+   Usage: <link rel="stylesheet" href="fonts/fonts.css">
+   Families: "ZT Bros Oskon 90s" (display), Inter (readable), "Space Mono" (mono).
+   See ../fonts.json for the categorized inventory. */
+
+/* ---------------- Display: ZT Bros Oskon 90s (user-provided) ---------------- */
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-ExtraLight.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-ExtLtIta.otf") format("opentype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-LightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ZT Bros Oskon 90s";
+  src: url("display/ZTBrosOskon90s/ZTBrosOskon90s-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------------- Readable: Inter (variable, OFL) ---------------- */
+@font-face {
+  font-family: "Inter";
+  src: url("readable/Inter/Inter-opsz-wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("readable/Inter/Inter-Italic-opsz-wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------------- Mono: Space Mono (OFL) ---------------- */
+@font-face {
+  font-family: "Space Mono";
+  src: url("mono/SpaceMono/SpaceMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Space Mono";
+  src: url("mono/SpaceMono/SpaceMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Space Mono";
+  src: url("mono/SpaceMono/SpaceMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Space Mono";
+  src: url("mono/SpaceMono/SpaceMono-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
